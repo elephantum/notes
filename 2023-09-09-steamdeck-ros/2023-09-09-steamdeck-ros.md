@@ -19,3 +19,5 @@ Robot:
 * Steamdeck OS runs 6.3 kernel and correctly initializes `js0`
 * This guy (https://github.com/ARK-Electronics/ark_rover_demo/tree/main) runs ubuntu 22.04 in container on top of steamdeck OS
 * Foxglove is easy to run on top of ubuntu (Foxglove snap package)
+
+* This guy (https://www.youtube.com/watch?v=KbF4r7yCCds) suggests using RoboStack
