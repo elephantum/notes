@@ -21,3 +21,6 @@ Robot:
 * Foxglove is easy to run on top of ubuntu (Foxglove snap package)
 
 * This guy (https://www.youtube.com/watch?v=KbF4r7yCCds) suggests using RoboStack
+
+* In order for steamdeck joystick to work in `joy` node, you need to switch input to "joystick" in Steam in desktop mode
+* How to install distrobox on steamdeck: https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/
