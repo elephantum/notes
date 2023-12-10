@@ -146,6 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c17637bf5d80622",
-  "lastOpenFiles": []
+  "active": "bcdb3704e7dc3b4b",
+  "lastOpenFiles": [
+    "2023-12-10-memray",
+    "2023-09-09-steamdeck-ros/Robot setup.md",
+    "2023-09-09-steamdeck-ros/Steamdeck setup.md",
+    "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md"
+  ]
 }
