@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md",
+                "file": "_drafts/2024-webrtc-ros/rpi-h264stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md",
+                "file": "_drafts/2024-webrtc-ros/rpi-h264stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md",
+                "file": "_drafts/2024-webrtc-ros/rpi-h264stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md"
+                "file": "_drafts/2024-webrtc-ros/rpi-h264stream.md"
               }
             }
           }
@@ -146,11 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcdb3704e7dc3b4b",
+  "active": "4c17637bf5d80622",
   "lastOpenFiles": [
-    "2023-12-10-memray",
-    "2023-09-09-steamdeck-ros/Robot setup.md",
+    "_drafts/ros ground station.md",
+    "_drafts/ros streaming.md",
+    "_drafts/terraform project setup.md",
+    "_drafts/terraform for team management.md",
+    "_posts/2023-12-13 upgrade on start.md",
+    "_drafts/2023-09-09-steamdeck-ros/Steamdeck setup.md",
     "2023-09-09-steamdeck-ros/Steamdeck setup.md",
-    "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md"
+    "_drafts/2023-09-09-steamdeck-ros/Robot setup.md",
+    "2023-09-09-steamdeck-ros/Robot setup.md",
+    "_drafts/2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md",
+    "2023-09-09-steamdeck-ros/2023-09-09-steamdeck-ros.md",
+    "2023-12-10-memray"
   ]
 }
