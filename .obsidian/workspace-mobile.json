@@ -25,12 +25,14 @@
             "id": "b608ff9e0abe363e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md"
+                "file": "Projects/NightBot/Frontier Exploration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2026-09-12 Cloud and Selfhost.excalidraw"
+              "icon": "lucide-file",
+              "title": "Frontier Exploration"
             }
           }
         ],
@@ -188,6 +190,7 @@
   },
   "active": "b608ff9e0abe363e",
   "lastOpenFiles": [
+    "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md",
     "Projects/NightBot/Frontier Exploration.md",
     "WIP/ConfigPlane/ConfigPlane.md",
     "Projects/Home server/Home Server.md",
@@ -215,7 +218,6 @@
     "Meeting notes/2025/2025-04-04 10.41.23.excalidraw.md",
     "Meeting notes/2025/2025-03-27 13.26.20.excalidraw.md",
     "Meeting notes/2025/2025-04-16 15.42.03.excalidraw.md",
-    "Meeting notes/2025/2025-04-15 12.46.32.excalidraw.md",
     "Meeting notes/2025",
     "Plans/2025",
     "AI/Gemini",
