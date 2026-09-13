@@ -25,14 +25,12 @@
             "id": "b608ff9e0abe363e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/NightBot/Frontier Exploration.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Frontier Exploration"
+              "icon": "excalidraw-icon",
+              "title": "2026-09-12 Cloud and Selfhost.excalidraw"
             }
           }
         ],
@@ -52,7 +50,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -188,8 +188,9 @@
   },
   "active": "b608ff9e0abe363e",
   "lastOpenFiles": [
-    "Projects/Home server/Home Server.md",
     "Projects/NightBot/Frontier Exploration.md",
+    "WIP/ConfigPlane/ConfigPlane.md",
+    "Projects/Home server/Home Server.md",
     "Untitled.md",
     "Plans/2026-W15.md",
     "Plans/2026-W14.md",
@@ -215,7 +216,6 @@
     "Meeting notes/2025/2025-03-27 13.26.20.excalidraw.md",
     "Meeting notes/2025/2025-04-16 15.42.03.excalidraw.md",
     "Meeting notes/2025/2025-04-15 12.46.32.excalidraw.md",
-    "Meeting notes/2025/2025-10-16 13.38.08.excalidraw.md",
     "Meeting notes/2025",
     "Plans/2025",
     "AI/Gemini",
