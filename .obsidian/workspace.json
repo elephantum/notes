@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fb6bbc3b46d3a5e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Manychat/2026-07-01 12.12.07.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2026-07-01 12.12.07.excalidraw"
-            }
-          },
-          {
-            "id": "5386b19dd957cda7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Datapipe/2026-08-31 16.38.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2026-08-31 16.38.09.excalidraw"
-            }
-          },
-          {
-            "id": "81e8365edca5e58b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Vedana/2026-09-04 13.10.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2026-09-04 13.10.17.excalidraw"
-            }
-          },
-          {
             "id": "e471bb2dea02ec7d",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "2026-09-12 Cloud and Selfhost.excalidraw"
             }
+          },
+          {
+            "id": "b20c19ccb8325de3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects/Datapipe/2026-09-14 10.21.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2026-09-14 10.21.47.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "23fe786b7fc84c03",
@@ -242,10 +219,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e471bb2dea02ec7d",
+  "active": "b20c19ccb8325de3",
   "lastOpenFiles": [
-    "Projects/Datapipe/2026-08-31 16.38.09.excalidraw.md",
     "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md",
+    "Projects/Datapipe/2026-09-14 10.21.47.excalidraw.md",
+    "Projects/Datapipe/2026-08-31 16.38.09.excalidraw.md",
     "Projects/Vedana/2026-09-04 13.10.17.excalidraw.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
@@ -272,7 +250,6 @@
     "Untitled.md",
     "Projects/Manychat/2026-04-01 Overall Arch.excalidraw.md",
     "gemini-scribe/Prompts/example-expert.md",
-    "Plans/2026-W14.md",
     "gemini-scribe/Agent-Sessions",
     "Projects/Home server",
     "gemini-scribe/Prompts",
