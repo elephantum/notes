@@ -25,12 +25,14 @@
             "id": "b608ff9e0abe363e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Datapipe/Drawing 2025-05-03 10.46.07.excalidraw.md"
+                "file": "Projects/Datapipe/Datapipe 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-03 10.46.07.excalidraw"
+              "icon": "lucide-file",
+              "title": "Datapipe 2"
             }
           }
         ],
@@ -188,12 +190,13 @@
   },
   "active": "b608ff9e0abe363e",
   "lastOpenFiles": [
-    "Projects/Datapipe/Drawing 2025-02-21 11.02.48.excalidraw.md",
-    "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md",
     "Projects/Datapipe/2026-09-14 10.21.47.excalidraw.md",
+    "Projects/Datapipe/2026-09-12 Cloud and Selfhost.excalidraw.md",
+    "Projects/Datapipe/2025-05-03 10.46.07.excalidraw.md",
+    "Projects/SilkMetrix/2025-05-12 13.57.47.excalidraw.md",
+    "Projects/Datapipe/Drawing 2025-02-21 11.02.48.excalidraw.md",
     "Projects/Datapipe/Datapipe 2.md",
     "Projects/NightBot/Frontier Exploration.md",
-    "Projects/Datapipe/Drawing 2025-05-03 10.46.07.excalidraw.md",
     "WIP/ConfigPlane/ConfigPlane.md",
     "Projects/Home server/Home Server.md",
     "Untitled.md",
@@ -215,7 +218,6 @@
     "Meeting notes/2025/2025-03-26 13.26.58.excalidraw.md",
     "Meeting notes/2025/2025-01-29 18.09.23.excalidraw.md",
     "Meeting notes/2025/2025-10-27 16.10.17.excalidraw.md",
-    "Meeting notes/2025/2025-05-20 14.15.09.excalidraw.md",
     "Meeting notes/2025",
     "Plans/2025",
     "AI/Gemini",
